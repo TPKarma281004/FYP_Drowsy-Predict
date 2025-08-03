@@ -1,0 +1,50 @@
+1. Christine Dewi, Rung-Ching Chen, Xiaoyi Jiang, and Hui Yu, “Adjusting eye aspect ratio for strong eye blink detection based on facial landmarks ”, PeerJ Comput. Sci, 2022.
+
+2. Jinkwon, Kim Samyong, Kim Hochoul, Jung Byoung Joon, Lee Euiyoon, Chung, “Driver's drowsiness warning system based on analyzing driving patterns and facial images ” Driver Assistant System Development Team, R&D Division for Hyundai Motor Company Republic of Korea.
+
+3. Shikha Pachouly, Neha Bhondve, Ashutosh Dalvi, Vinit Dhande, Neerav Bhamare, “driver drowsiness detection using machine learning with visual behaviour ” International Journal of Creative Research Thoughts (IJCRT), 2020.
+
+4. B. Reddy, Y.-H. Kim, S. Yun, C. Seo, and J. Jang, “Real-time driver drowsiness detection for embedded system using model compression of deep neural networks ”, in CVPR Workshops, 2017.
+
+5. Emma Perkins, Chiranjibi Sitaula, Michael Burke, Faezeh Marzbanrad, “Challenges of Driver Drowsiness Prediction: The Remaining Steps to Implementation ”, 2021.
+
+6. Arafat Islam, Naimur Rahaman & Md Atiqur Rahman Ahad, “A Study on Tiredness Assessment by Using Eye Blink Detection ”, 2019.
+
+7. Nabil Yassine, Steve Barker, Khaled Hayatleh, Bhaskar Choubey, Rajasekhar Nagulapalli, “Simulation of driver fatigue monitoring via blink rate detection, using 65 nm CMOS technology ”, 2018.
+
+8. Ajjen Joshi, Survi Kyal, Sandipan Banerjee, Taniya Mishra, “In-the-wild Drowsiness Detection from Facial Expressions ”, 2020.
+
+9. Ali A Abusharha, “Changes in blink rate and ocular symptoms during different reading tasks ”, in Clinical Optometry, 2017.
+
+10. Muhammad Fawwaz Yusri, Patrick Mangat, and Oliver Wasenmuller, “Detection of Driver Drowsiness by Calculating the Speed of Eye Blinking ”, 2021.
+
+11. Xinliang Zhou, Dan Lin, Ziyu Jia, Jiaping Xiao, Chenyu Liu, Liming Zhai, and Yang Liu, “An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance ”, 2023.
+
+12. Delong Liu, Shichao Li, “open-driver:an open-road driver state detection dataset ”, 2023.
+
+13. Qazal Rezaee, Nasireh Dayarian, Mehdi Delrobaei, Sahar Javaher Haghighi, Ashkan Giveki, “Driver Drowsiness Detection with Commercial EEG Headsets ” in 10th RSI International Conference on Robotics and Mechatronics (lCRoM), 2022.
+
+14. Sonia D'raz-Santos, Pino Caballero-Gil, “Drowsiness detection in drivers with a smartwatch ” in arXiv, 2022.
+
+15. Ashwin Pillay, Aditya Kale, Raj Anchan, Aniket Bhadricha, Sangeeta Prasanna Ram, “Real-Time Detection of Drowsiness Among Vehicle Drivers: A Machine Learning Algorithm for Embedded Systems ” in arXiv, 2021.
+
+16. Siddarth Ganesh, Ram Gurumoorthy, “Real time vigilance detection using frontal EEG ” in International Journal of Computer Science & Information Technology (IJCSIT), 2021.
+
+17. Rateb Jabbar, Mohammed Shinoy, Mohamed Kharbeche, Khalifa AI-Khalifa, Moez Krichen, Kamel Barkaoui, “Driver Drowsiness Detection Model Using Convolutional Neural Networks Techniques for Android Application ” in arXiv, 2020.
+
+18. Jasper S. Wijnands, Jason Thompson, Kerry A. Nice, Gideon D. P. A. Aschwanden, Mark Stevenson, “Real-time monitoring of driver drowsiness on mobile platforms using 3D neural networks ” in Neural Computing and Applications, 2019.
+
+19. “Road traffic injuries World Health Organisation ” Available: https://www.who.intlnews-roomlfact-sheets/detail/road-traffic-injuries.
+
+20. “Drivers are falling asleep behind the wheel ” Available: https://www.nsc.org/road-safety/safety-topics/fatigued-driving.
+
+21. “Ministry of Road Transport and Highways ” Available: https://morth.nic.in/about-road-safety.
+
+22. “Driver fatigue-led road accidents: Approaches India could take to prevent these - Times of India ” Available: https://timesofindia.indiatimes.com/auto/policy-and-industry/driver-fatigue-led-road-accidents-approaches-india-could-take-to-prevent-these/articleshow/97048300.cms.
+
+23. Zhongmin Liu, Yuxi Peng, and Wenjin Hu, “Driver fatigue detection based on deeply-learned facial expression representation,” Journal of Visual Communication and Image Representation, vol. 71, pp. 102723, 2020.
+
+24. Buendia R, Forcolin F, Karlsson J. : “Deriving heart rate variability indices from cardiac monitoring-An indicator of driver sleepiness ”, 2018.
+
+25. Soukupova, T., Cech, J. : Real-time eye blink detection using facial landmarks. In: 21st Computer Vision Winter Workshop. ( 2016 ).
+
